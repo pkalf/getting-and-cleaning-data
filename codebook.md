@@ -14,8 +14,9 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 Here follows a description of `tidy_data.txt`.
 
-1. The first variable `subject` denotes the subject number that performed an activity. In total there are 30 subjects.
-2. The second variable `activity` denotes the activity performed by the subject. There are six activites, listed here:
+The first variable `subject` denotes the subject number that performed an activity. In total there are 30 subjects.
+
+The second variable `activity` denotes the activity performed by the subject. There are six activites, listed here:
 
 * WALKING
 * WALKING_UPSTAIRS
@@ -24,71 +25,71 @@ Here follows a description of `tidy_data.txt`.
 * STANDING
 * LAYING
 
-3. The remaining of the variables are the following:
+The remaining of the variables are the following:
 
-timeBodyAccMeanX     
-timeBodyAccMeanY        
-timeBodyAccMeanZ        
-timeBodyAccStdX         
-timeBodyAccStdY         
-timeBodyAccStdZ         
-timeGravityAccMeanX     
-timeGravityAccMeanY     
-timeGravityAccMeanZ     
-timeGravityAccStdX      
-timeGravityAccStdY      
-timeGravityAccStdZ      
-timeBodyAccJerkMeanX    
-timeBodyAccJerkMeanY    
-timeBodyAccJerkMeanZ    
-timeBodyAccJerkStdX     
-timeBodyAccJerkStdY     
-timeBodyAccJerkStdZ     
-timeBodyGyroMeanX       
-timeBodyGyroMeanY       
-timeBodyGyroMeanZ       
-timeBodyGyroStdX        
-timeBodyGyroStdY        
-timeBodyGyroStdZ        
-timeBodyGyroJerkMeanX   
-timeBodyGyroJerkMeanY   
-timeBodyGyroJerkMeanZ   
-timeBodyGyroJerkStdX    
-timeBodyGyroJerkStdY    
-timeBodyGyroJerkStdZ    
-timeBodyAccMagMean       
-timeBodyAccMagStd        
-timeGravityAccMagMean    
-timeGravityAccMagStd     
-timeBodyAccJerkMagMean   
-timeBodyAccJerkMagStd    
-timeBodyGyroMagMean      
-timeBodyGyroMagStd       
-timeBodyGyroJerkMagMean  
-timeBodyGyroJerkMagStd   
-freqBodyAccMeanX        
-freqBodyAccMeanY        
-freqBodyAccMeanZ        
-freqBodyAccStdX         
-freqBodyAccStdY         
-freqBodyAccStdZ         
-freqBodyAccJerkMeanX    
-freqBodyAccJerkMeanY    
-freqBodyAccJerkMeanZ    
-freqBodyAccJerkStdX     
-freqBodyAccJerkStdY     
-freqBodyAccJerkStdZ     
-freqBodyGyroMeanX       
-freqBodyGyroMeanY       
-freqBodyGyroMeanZ       
-freqBodyGyroStdX        
-freqBodyGyroStdY        
-freqBodyGyroStdZ        
-freqBodyAccMagMean       
-freqBodyAccMagStd        
-freqBodyAccJerkMagMean
-freqBodyAccJerkMagStd
-freqBodyGyroMagMean  
-freqBodyGyroMagStd   
-freqBodyGyroJerkMagMean
-freqBodyGyroJerkMagStd
+* timeBodyAccMeanX     
+* timeBodyAccMeanY        
+* timeBodyAccMeanZ        
+* timeBodyAccStdX         
+* timeBodyAccStdY         
+* timeBodyAccStdZ         
+* timeGravityAccMeanX     
+* timeGravityAccMeanY     
+* timeGravityAccMeanZ     
+* timeGravityAccStdX      
+* timeGravityAccStdY      
+* timeGravityAccStdZ      
+* timeBodyAccJerkMeanX    
+* timeBodyAccJerkMeanY    
+* timeBodyAccJerkMeanZ    
+* timeBodyAccJerkStdX     
+* timeBodyAccJerkStdY     
+* timeBodyAccJerkStdZ     
+* timeBodyGyroMeanX       
+* timeBodyGyroMeanY       
+* timeBodyGyroMeanZ       
+* timeBodyGyroStdX        
+* timeBodyGyroStdY        
+* timeBodyGyroStdZ        
+* timeBodyGyroJerkMeanX   
+* timeBodyGyroJerkMeanY   
+* timeBodyGyroJerkMeanZ   
+* timeBodyGyroJerkStdX    
+* timeBodyGyroJerkStdY    
+* timeBodyGyroJerkStdZ    
+* timeBodyAccMagMean       
+* timeBodyAccMagStd        
+* timeGravityAccMagMean    
+* timeGravityAccMagStd     
+* timeBodyAccJerkMagMean   
+* timeBodyAccJerkMagStd    
+* timeBodyGyroMagMean      
+* timeBodyGyroMagStd       
+* timeBodyGyroJerkMagMean  
+* timeBodyGyroJerkMagStd   
+* freqBodyAccMeanX        
+* freqBodyAccMeanY        
+* freqBodyAccMeanZ        
+* freqBodyAccStdX         
+* freqBodyAccStdY         
+* freqBodyAccStdZ         
+* freqBodyAccJerkMeanX    
+* freqBodyAccJerkMeanY    
+* freqBodyAccJerkMeanZ    
+* freqBodyAccJerkStdX     
+* freqBodyAccJerkStdY     
+* freqBodyAccJerkStdZ     
+* freqBodyGyroMeanX       
+* freqBodyGyroMeanY       
+* freqBodyGyroMeanZ       
+* freqBodyGyroStdX        
+* freqBodyGyroStdY        
+* freqBodyGyroStdZ        
+* freqBodyAccMagMean       
+* freqBodyAccMagStd        
+* freqBodyAccJerkMagMean
+* freqBodyAccJerkMagStd
+* freqBodyGyroMagMean  
+* freqBodyGyroMagStd   
+* freqBodyGyroJerkMagMean
+* freqBodyGyroJerkMagStd
